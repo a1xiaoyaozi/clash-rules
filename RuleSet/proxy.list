@@ -4,5 +4,5 @@
 IP-CIDR6,::/0,no-resolve
 
 # PT
-DOMAIN-SUFFIX:m-team.cc
 DOMAIN-SUFFIX:tjupt.org
+DOMAIN-SUFFIX,m-team.cc
