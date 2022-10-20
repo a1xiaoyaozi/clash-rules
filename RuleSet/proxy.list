@@ -1,8 +1,0 @@
-# 本地/局域网地址
-
-# IPv6
-IP-CIDR6,::/0,no-resolve
-
-# PT
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,m-team.cc
