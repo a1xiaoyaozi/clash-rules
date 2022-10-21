@@ -1,3 +1,4 @@
 # IPv6
 IP-CIDR6,::/0
-IP-CIDR6,::/0,no-resolve
+# no-resolve 表示不进行DNS解析，直接匹配
+# IP-CIDR6,::/0,no-resolve
