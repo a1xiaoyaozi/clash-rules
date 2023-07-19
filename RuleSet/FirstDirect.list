@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 # oracle
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,.oraclecloud.com
+DOMAIN-SUFFIX,oraclecloud.com
 
 # microsoft
 DOMAIN-SUFFIX,cn.bing.com
