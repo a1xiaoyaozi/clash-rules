@@ -1,6 +1,8 @@
 # PT
-DOMAIN-SUFFIX,tjupt.org
+# DOMAIN-SUFFIX,tjupt.org
+# DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,byr.pt
+
+# ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,openai
