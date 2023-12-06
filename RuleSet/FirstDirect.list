@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,oraclecloud.com
 
 # microsoft
 DOMAIN-SUFFIX,cn.bing.com
+
+# personal
+DOMAIN-SUFFIX,dreamslinking.com
