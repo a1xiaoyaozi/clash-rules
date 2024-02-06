@@ -6,3 +6,8 @@ DOMAIN-SUFFIX,m-team.cc
 # ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,openai
+
+# tiktok
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,tik-tokapi.com
