@@ -1,3 +1,6 @@
+# IPv6 匹配所有的ipv6
+# IP-CIDR6,::/0
+
 # microsoft
 DOMAIN-SUFFIX,bing.com
 
