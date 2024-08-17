@@ -1,0 +1,19 @@
+# PT
+# DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,byr.pt
+DOMAIN-SUFFIX,neu6.edu.cn
+DOMAIN-SUFFIX,m-team.cc
+
+# TikTok
+USER-AGENT,TikTok*
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,tiktokcdn
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
