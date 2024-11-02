@@ -4,3 +4,8 @@ DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,byr.cn
 DOMAIN-SUFFIX,neu6.edu.cn
 DOMAIN-SUFFIX,m-team.cc
+
+# PayPal
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
